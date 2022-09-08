@@ -1,0 +1,16 @@
+html Lesson Boilerplate| Odin Project
+
+<!DOCTYPE html>
+<html lang="en"> <!--lang, bahasa dari text content di dalam 	elemen, atribut pertama yang digunakan untuk aksesibilitas 	dari sebuah web -->
+
+	<head> <!-- didalam head mengandung meta-informasi yang 	penting dari sebuah wesite, agar halaman web dirender dengan benar di dalam sebuah browser, content tidak diletakkan di 	dalam head -->
+
+		<meta charset="utf-8"> <!-- untuk memunculkan symbol spesial dan karakter dari bahasa yang berbeda dengan benar dalam browser -->
+
+		<title>Document</title> <!-- penamaan halaman web browser -->
+
+	</head>
+	<body> <!-- content berada didalam body -->
+		<h1>Hello World! </h1> <!-- memunculkan heading -->
+	</body>
+</html>
