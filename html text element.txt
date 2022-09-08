@@ -43,3 +43,26 @@ silahkan coba contoh berikut di dalam kode editormu.
   </body>
 </html>
 
+#Em Element
+<em> element membuat text menjadi bercetak miring, ini adalah tanda semantic terutama untuk screen reader.
+
+silahkan coba contoh berikut di dalam kode editormu.
+<html>
+  <head>
+  </head>
+  <body>
+    <p>Lorem ipsum <em>dolor sit</em> amet, consectetur adipiscing elit.</p>
+  </body>
+ </html>
+
+#html Comment
+komentar html memungkinkan tulisan yang berada di dalam tag nya tidak tercetak kedalam browser.
+
+silahkan coba contoh berikut  di dalam kode editormu.
+<h1> View the html to see the hidden comments </h1>
+
+<!-- I am a html comment -->
+
+<p>Some paragraph text</p>
+
+<!-- I am another html comment -->
