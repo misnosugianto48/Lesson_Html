@@ -1,4 +1,4 @@
-html Lesson Boilerplate| Odin Project
+#html Lesson Boilerplate| Odin Project
 
 <!DOCTYPE html>
 <html lang="en"> <!--lang, bahasa dari text content di dalam 	elemen, atribut pertama yang digunakan untuk aksesibilitas 	dari sebuah web -->
@@ -12,5 +12,17 @@ html Lesson Boilerplate| Odin Project
 	</head>
 	<body> <!-- content berada didalam body -->
 		<h1>Hello World! </h1> <!-- memunculkan heading -->
+	</body>
+</html>
+
+#html full structure
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Document</title>
+	</head>
+	<body>
+		<h1>Hello World!</h1>
 	</body>
 </html>
