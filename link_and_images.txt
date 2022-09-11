@@ -1,0 +1,13 @@
+Link and Images | Odin Project
+
+#Anchor Elements
+  tag <a> digunakan untuk membuat sebuah anchor element atau sebuah link yang menyatu dengan text atau element html yang diinginkan. Atribut ini dibuat dengan 2 bagian, sebuah nama dan sebuah nilai. di dalam kasus ini, sebuah a element harus diberikan sebuah "href" (hyperlink refenrence) di sebuah   pembuka anchor tag. Nilai dari sebuah href attribut adalah tujuan dari sebuah link. 
+  silahkan coba contoh berikut di dalam kode editormu.
+  <a href="https://www.theodinproject.com/about">click me</a>.
+  
+By default. Text apapun yang ada di dalam anchor tag tanpa href attribut akan terlihat seperti plain text. Jika memiliki attribut href, browser secara otomatis memberi warna biru dan garis bawah untuk menunjukan sebuah link.
+
+#Absolute Links
+link untuk halaman website yang berbeda di internet disebut absolute link. Absolute link dibuat dengan mengikuti bagian seperti berikut: protocol://domain/path. Absolute link selalu berisi protokol dan domain dari tujuan.
+
+#Relative Links
